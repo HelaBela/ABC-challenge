@@ -1,0 +1,11 @@
+/Users/helena.franczak/RiderProjects/ABC/ABC/bin/Debug/netcoreapp2.2/ABC.deps.json
+/Users/helena.franczak/RiderProjects/ABC/ABC/bin/Debug/netcoreapp2.2/ABC.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/ABC/ABC/bin/Debug/netcoreapp2.2/ABC.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/ABC/ABC/bin/Debug/netcoreapp2.2/ABC.dll
+/Users/helena.franczak/RiderProjects/ABC/ABC/bin/Debug/netcoreapp2.2/ABC.pdb
+/Users/helena.franczak/RiderProjects/ABC/ABC/obj/Debug/netcoreapp2.2/ABC.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/ABC/ABC/obj/Debug/netcoreapp2.2/ABC.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/ABC/ABC/obj/Debug/netcoreapp2.2/ABC.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/ABC/ABC/obj/Debug/netcoreapp2.2/ABC.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/ABC/ABC/obj/Debug/netcoreapp2.2/ABC.dll
+/Users/helena.franczak/RiderProjects/ABC/ABC/obj/Debug/netcoreapp2.2/ABC.pdb
