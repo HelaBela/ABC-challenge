@@ -1,0 +1,17 @@
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/bin/Debug/netcoreapp2.2/ABC.Test.deps.json
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/bin/Debug/netcoreapp2.2/ABC.Test.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/bin/Debug/netcoreapp2.2/ABC.Test.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/bin/Debug/netcoreapp2.2/ABC.Test.dll
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/bin/Debug/netcoreapp2.2/ABC.Test.pdb
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/obj/Debug/netcoreapp2.2/ABC.Test.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/obj/Debug/netcoreapp2.2/ABC.Test.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/obj/Debug/netcoreapp2.2/ABC.Test.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/obj/Debug/netcoreapp2.2/ABC.Test.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/obj/Debug/netcoreapp2.2/ABC.Test.dll
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/obj/Debug/netcoreapp2.2/ABC.Test.pdb
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/bin/Debug/netcoreapp2.2/ABC.dll
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/bin/Debug/netcoreapp2.2/ABC.pdb
+/Users/helena.franczak/RiderProjects/ABC/ABC.Test/obj/Debug/netcoreapp2.2/ABC.Test.csproj.CopyComplete
